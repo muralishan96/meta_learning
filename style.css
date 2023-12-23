@@ -1,11 +1,6 @@
-p{
-    color: blueviolet;
-    stroke: antiquewhite;
-    border: 3px;
-    padding-left: 20px;
-}
+
 .parent {
-    border: 4xp solid red;
+    border: 4xp solid rgb(85, 0, 255);
 }
 .child {
     width: 50%;
